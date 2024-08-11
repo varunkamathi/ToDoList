@@ -30,3 +30,6 @@ ul.addEventListener("click" , function (event) {
        listItem.remove();
     }
 });
+
+
+//borign , fain
